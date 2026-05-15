@@ -4,9 +4,4 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "installCommand": "npm install",
-  "env": {
-    "NEXT_PUBLIC_HF_API_URL": {
-      "description": "Hugging Face Space API URL"
-    }
-  }
 }
